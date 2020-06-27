@@ -6,5 +6,6 @@ using UnityEngine;
 ///</summary>
 public class NewBehaviourScript : MonoBehaviour
 {
-
+    private float zzs;
+    public int wy;
 }
